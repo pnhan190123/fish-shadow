@@ -1,0 +1,22 @@
+00-05-Cá nhà táng-Thuyền-Ban đêm
+10-20-Rùa biển-Bãi biển-Ban ngày
+13-18-Cá voi xanh-Ngọn hải đăng-Ban ngày
+15-17-Cá heo hồng-Hồ nước trong mall-Ban ngày
+20-35-Cá sấu mõm dài-Hồ cắm trại, Thác Nước-Ban đêm
+25-35-Cá voi sát thủ-Thuyền-Ban đêm
+30-40-Cá sấu-Hồ bơi tại gia-Cả ngày
+30-35-Cá nhà táng-Thuyền-Ban đêm
+40-50-Rùa biển-Bãi biển-Ban ngày
+43-48-Cá voi xanh-Ngọn hải đăng-Ban ngày
+45-47-Cá heo hồng-Hồ nước trong mall-Ban ngày
+55-60-Cá sấu-Hồ bơi tại gia-Cả ngày
+55-60-Cá sấu mõm dài-Hồ cắm trại, Thác Nước-Ban đêm
+55-60-Cá voi sát thủ-Thuyền-Ban đêm
+00-05-Cá sấu-Hồ bơi tại gia-Cả ngày
+00-05-Cá sấu mõm dài-Hồ cắm trại, Thác Nước-Ban đêm
+00-05-Cá voi sát thủ-Thuyền-Ban đêm
+30-40-Cá hổ-Hồ bơi tại gia, Mall-Cả ngày
+30-50-Cá heo không vây-Ngọn hải đăng-Ban ngày
+20-30-Kỳ nhông-Hồ bơi tại gia, Mall-Ban ngày
+00-60-Ba ba-Sông ở Home Town-Cả ngày
+00-15-Cá chép vàng-Sông ở Home Town-Cả ngày

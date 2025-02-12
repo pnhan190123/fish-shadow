@@ -1,0 +1,15 @@
+cập nhật FishShadow V3.0.2
++ Fix lỗi giải captcha
++ Giới hạn số lượng giả lập = 3 (Vì vấn đề captcha quá tải)
+
+cập nhật FishShadow V3.0.1
++ Giải Captcha, ở mode ADB không cần cài đặt phím gì nhiều
+ở mode bàn phím cài nút số 6 tại chữ OK của captcha
+và các phím r, t, y
+            f, g, h
+	    v, b, n
+lần lượt với 9 ô đáp án của captcha
+
+
+Bản vá lỗi 3.0.0a
+Fix lỗi treo tại màn hình bảo quản cá!

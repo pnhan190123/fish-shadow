@@ -1,0 +1,9 @@
+Bổ củi FishShadow V2.1
+
++ Thêm tính năng sao kê
++ Nâng cấp 1 số thứ
++ Chạy nhiều giả lập với cách
+tùy chỉnh processID cho từng giả lập
+lúc dùng cheatEngine có thể thẩy processID của
+giả lập có dạng: 0000****-MEmuHeadless.exe
+Dãy chữ cái trước tên là id (Lưu ý chỉ chạy nhiều giả lập mới cài)

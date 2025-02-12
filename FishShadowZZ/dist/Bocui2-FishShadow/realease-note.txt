@@ -1,0 +1,41 @@
+Bổ củi FishShadow V2.5
++fix update 21/10
+
+Bổ củi FishShadow V2.4
++ Tiếp tục fix captcha
++ Key active tự động
++ Tốc độ min bổ củi về 1s
+* Hiện tại vấn đề lỗi key là do đường truyền
+mạng có vấn đề như vnpt hay fpt là bị lỗi nhiều
+* Team sẽ cập nhật bonus tất cả key mua trước 00h ngày 12/10/2021
+tăng thêm 3 ngày vào tối nay đền bù cho những lỗi vừa qua, cảm ơn
+mọi người đã ủng hộ team!
+
+Bổ củi FishShadow V2.3
++ Fix lỗi giải captcha
++ Giới hạn tốc độ nhỏ nhất là 3, cài tốc độ nhỏ
+hơn 3 auto thành 3 hết
++ Giới hạn số lượng giả lập = 3 (Vì vấn đề captcha quá tải)
+
+Bổ củi FishShadow V2.2
++ Giải Captcha, ở mode ADB không cần cài đặt phím gì nhiều
+ở mode bàn phím cài nút số 6 tại chữ OK của captcha
+và các phím r, t, y
+            f, g, h
+	    v, b, n
+lần lượt với 9 ô đáp án của captcha
+* Lưu ý: bấm kết nối rồi bấm qua giả lập game liền tương tự
+cách kết nối của bản auto v3 thường, không resize giả lập sau khi kết
+nối
+
+
+
+Bổ củi FishShadow V2.1
+
++ Thêm tính năng sao kê
++ Nâng cấp 1 số thứ
++ Chạy nhiều giả lập với cách
+tùy chỉnh processID cho từng giả lập
+lúc dùng cheatEngine có thể thẩy processID của
+giả lập có dạng: 0000****-MEmuHeadless.exe
+Dãy chữ cái trước tên là id (Lưu ý chỉ chạy nhiều giả lập mới cài)

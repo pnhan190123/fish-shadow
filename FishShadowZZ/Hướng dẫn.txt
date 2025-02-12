@@ -1,0 +1,4 @@
+Hướng dẫn cập nhật cho bản bổ củi cũ
+- Tải file update.rar về, giải nén rồi copy 4 file trong đó
+vào thư mục cài tool, skip all là xong
+- Hoặc gỡ cài bản cũ tải bản mới cũng được
