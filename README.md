@@ -12,7 +12,7 @@
 ## 📺 Demo & Community  
 🔹 **Join Our Discord:** [![Discord](https://img.shields.io/discord/123456789?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/rTCQRtXjjk)  
 🔹 **Watch on YouTube:**  
-[![YouTube Video](https://img.youtube.com/vi/vohlk4Eo-U8/0.jpg)](https://www.youtube.com/watch?v=vohlk4Eo-U8)  
+[![YouTube Video](https://img.youtube.com/vi/KQDyCshXqZc/0.jpg)](https://www.youtube.com/watch?v=KQDyCshXqZc)  
 [![YouTube Video](https://img.youtube.com/vi/V0Ybnubg-40/0.jpg)](https://www.youtube.com/watch?v=V0Ybnubg-40)  
 
 ## 🚀 Get Started  
